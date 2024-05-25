@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # reactjsbasics
 This is a simple app demonstrating the use of react concepts like Components , Props, State ,etc
 =======
@@ -71,5 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> e2e5bda (Initialize project using Create React App)
